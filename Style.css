@@ -1,0 +1,57 @@
+header{
+    background: rgb(80, 223, 101);
+    text-align:center;
+    color: black;
+    padding: 30px;
+    font-size: large;
+    font-family: cursive;
+    
+}
+
+div{
+    padding: 0 5%;
+    background-color:hwb(180 70% 4% / 0.925);
+    height: 80%;
+    width: 100%;
+    color: black;
+    
+}
+
+div ul li a:hover{
+    background-color: rgb(127, 255, 195);
+    padding: 5px 10px;
+    color: black;
+    text-decoration: none;
+
+}
+
+footer{
+    text-align: center;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+footer{
+    background: rgb(80, 223, 101);
+    padding: 30px;
+    font-size: large;
+    font-family: cursive;
+}
+
+
+.text-item{
+  position: absolute;
+  bottom: 20px;
+  right: 1000px;
+  color: black;
+  padding-left: 20px;
+  padding-right: 100px;
+  background-color: black;
+  color: white;
+}
+
+
+
+
+
